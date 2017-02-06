@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/MyGame.dir/Classes/AppDelegate.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/MainScene.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter2/Chapter2.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter2/Chapter2Level1.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter3/Chapter3.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter4/Chapter4.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter5/Chapter5.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter6/Chapter6.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter6/Chapter6_1.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter6/Chapter6_2.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter6/Chapter6_3.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter6/Chapter6_4.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter6/Chapter6_5.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter6/Chapter6_6.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter6/Chapter6_7.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter7/Chapter7.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter7/Chapter7_1.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter7/Chapter7_2.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter7/Chapter7_3.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_1.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_2.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_3.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_4.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_5.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_6.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_7.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_8.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_9.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/Chapter9_10.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter9/DrawNode3D.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter12/Chapter12.cpp.o"
+  "CMakeFiles/MyGame.dir/Classes/chapter13/Chapter13.cpp.o"
+  "CMakeFiles/MyGame.dir/proj.linux/main.cpp.o"
+  "bin/MyGame.pdb"
+  "bin/MyGame"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/MyGame.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
