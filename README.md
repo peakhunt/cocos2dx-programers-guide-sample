@@ -10,7 +10,7 @@ To build it,
 
 a) setup cocos2d-x as documented on their web site.
 
-b) clone this report and cd into it.
+b) clone this repo and cd into it.
 
 c) cocos compile -c -p linux -m release
    
