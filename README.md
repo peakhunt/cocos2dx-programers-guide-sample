@@ -9,11 +9,10 @@ And you need cocos2d-x 3.14.1 most of all since that is what I've used to create
 To build it,
 
 a) setup cocos2d-x as documented on their web site.
+
 b) clone this report and cd into it.
+
 c) cocos compile -c -p linux -m release
-   
-   or
-   cd linux-build && make
    
 Guess it is really a good sample to learn cocos2d-x on Linux.
 Happy coding until next time!
